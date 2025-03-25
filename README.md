@@ -1,4 +1,4 @@
-#Investigacion sobre .gitignore
+# Investigacion sobre .gitignore
 
 ###	¿Qué es el archivo .gitignore?
 
